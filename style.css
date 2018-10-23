@@ -27,15 +27,23 @@ button {
 }
 a {
 	color: #FF94A3;
+	font-family: 'Mali', cursive;
 }
 a:hover {
 	color: #850085;
 }
 .btn {
 	background-color: #850085;
+	font-family: 'Mali', cursive;
+	size: 100px 100px;
 }
 .btn-primary {
 	background-color: #850085;
+	font-family: 'Mali', cursive;
+	size: 100px 100px;
+	padding: 0.25rem 1rem 0.25rem 1rem;
+	border: none;
+	border-radius: 2rem;
 }
 .btn:hover {
 	background-color: #FF8500;
@@ -46,4 +54,8 @@ a:hover {
 .animated {
 	width: 0.5rem
 	height: 0.5rem;
+}
+.content {
+	font-family: 'Mali', cursive;
+	size: 100px 100px;
 }
