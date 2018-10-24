@@ -40,9 +40,11 @@ button {
 }
 .btn:hover {
 	background-color: #FF8500;
+	transform: scale(1.10);
 }
 .btn-primary:hover {
 	background-color: #FF8500;
+	transform: scale(1.10);
 }
 .animated {
 	width: 0.5rem
